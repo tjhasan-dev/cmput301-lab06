@@ -3,7 +3,7 @@
 
 ## Student Information
 **Name:** Tasmiah Hasan  
-**Course:** CMPUT 301 — Winter 2026  
+**Course:** CMPUT 301 - Winter 2026  
 **Lab:** Lab 6 Participation Exercise  
 
 ----------------------------------------------------------
