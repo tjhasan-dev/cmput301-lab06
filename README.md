@@ -25,23 +25,6 @@ The purpose of this lab was to practice:
 This project includes Java classes that model city data and manage collections of cities.  
 The project also demonstrates proper JavaDoc usage and documentation generation.
 
----
-
-## Project Structure
-lab06/
-├-- app/
-│ |-- src/main/java/com/example/lab_06/
-│ │ ├-- City.java
-│ │ ├-- CityList.java
-│ │ |-- MainActivity.java
-│ │
-│ └-- javadocs/ (Generated JavaDoc Documentation)
-│
-|-- gradle/
-|-- build.gradle.kts
-|-- settings.gradle.kts
-|-- README.md
-
 
 ---
 
